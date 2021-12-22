@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Experienced Web User Interface Developer with a demonstrated history of working in the insurance industry.
+##### Experienced Web User Interface Developer with a demonstrated history of working in the insurance industry.
 
-# Technologies:
+### Technologies:
 - Javascript, Angular, Nodejs, MongoDB, React, jQuery, PWA
 
 @ Also interested in:
